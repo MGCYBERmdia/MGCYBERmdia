@@ -71,5 +71,5 @@ My goal is to educate, inspire, and contribute to a safer digital world.
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Zakkis Shop](https://github.com/)**    | Unisex Accessories Shop, RINGS,BRACELT |
+| **[Zakkis Shop](https://github.com/MGCYBERmdia/Zakkis-co-website/tree/main)**    | Unisex Accessories Shop, RINGS,BRACELT |
 ---
